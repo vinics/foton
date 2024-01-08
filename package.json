@@ -1,0 +1,20 @@
+{
+  "name": "foton",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "src\\app.js",
+  "scripts": {
+    "dev": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@rocketseat/eslint-config": "^2.1.0",
+    "eslint": "^8.56.0"
+  }
+}
