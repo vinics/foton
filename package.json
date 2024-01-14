@@ -5,16 +5,18 @@
   "type": "module",
   "main": "src\\app.js",
   "scripts": {
-    "dev": "node ."
+    "dev": "nodemon ."
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "node-html-parser": "^6.1.12",
     "zod": "^3.22.4"
   },
   "devDependencies": {
     "@rocketseat/eslint-config": "^2.1.0",
-    "eslint": "^8.56.0"
+    "eslint": "^8.56.0",
+    "nodemon": "^3.0.2"
   }
 }
